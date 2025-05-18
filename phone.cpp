@@ -4,4 +4,5 @@ int main()
 {
 	cout<<"enter your phone number ";
 	int a;
+	int b;
 	}

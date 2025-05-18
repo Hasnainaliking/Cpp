@@ -20,7 +20,10 @@ cout<<ses;
  }
  else {
  	cout<<"fail";
+ 	
+ 	
  }
-
+ int a,
+ int c;
 	
 }

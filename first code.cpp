@@ -8,7 +8,6 @@ int main()
 	int sum = valueOne+valueTwo;
 	int ses;
 
-cout<<ses;
 	
    int marks;
    cout<<"enter marks";
@@ -21,6 +20,12 @@ cout<<ses;
  else {
  	cout<<"fail";
  }
+<<<<<<< Updated upstream
 cout<<"This is the changing of habibullah"<<endl;
 	
+=======
+
+	cout<<"hellow this is habibullah ";
+
+>>>>>>> Stashed changes
 }
